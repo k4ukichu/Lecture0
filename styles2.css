@@ -1,0 +1,39 @@
+h1{
+    text-align:center;   
+}
+.p1{
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+      
+}
+.p2{
+    text-align:center;   
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(168, 18, 18);
+      
+}
+.line{
+    margin-top: 1em;
+    padding-top: 1em;
+    
+}
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d 
+}
+
+.center{
+    margin:auto;
+    width:50%;
+    padding:10px;
+    color: black;
+}
+head{
+    color: purple;
+    background-color: #d8da3d 
+}

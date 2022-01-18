@@ -1,0 +1,51 @@
+h1{
+    text-align:center;   
+}
+.p1{
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+      
+}
+.p2{
+    text-align:left;   
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(231, 226, 226);
+      
+}
+.line{
+    margin-top: 1em;
+    padding-top: 1em;
+    color:burlywood;
+    
+}
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d 
+}
+
+.center{
+    margin:auto;
+    width:50%;
+    padding:10px;
+    color: black;
+}
+head{
+    color: purple;
+    background-color: #d8da3d 
+}
+ul.navbar {
+    text-align:center;
+    position: absolute;
+    top: 3em;
+    left: 7em;
+    width: 10em }
+    ul.navbar li {
+        background: rgb(206, 204, 204);
+        margin: 0.7em 0;
+        padding: 0.5em;
+        border-right: 0.5em solid black }
